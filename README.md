@@ -27,9 +27,9 @@ Open [Command Palette](https://code.visualstudio.com/docs/editor/codebasics) by 
 
 Following commands are available:
 
-* `Insert DateTime` (<kbd>⇧</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on OS X, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> on Windows and Linux) - Inserts current date and/or time according to configured format (`format`) at the cursor position. 
-* `Insert Date` - Inserts current date according to configured format (`formatDate`) at the cursor position. 
-* `Insert Time` - Inserts current time according to configured format (`formatTime`) at the cursor position. 
+* `Insert DateTime` (<kbd>⇧</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on OS X, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> on Windows and Linux) - Inserts current date and/or time according to configured format (`format`) at the cursor position.
+* `Insert Date` - Inserts current date according to configured format (`formatDate`) at the cursor position.
+* `Insert Time` - Inserts current time according to configured format (`formatTime`) at the cursor position.
 * `Insert Timestamp` - Inserts current timestamp in milliseconds at the cursor position.
 * `Insert Formatted DateTime` (<kbd>⇧</kbd>+<kbd>⌘</kbd>+<kbd>⌥</kbd>+<kbd>I</kbd> on OS X, <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> on Windows and Linux) - Prompt user for format and insert formatted date and/or time at the cursor position.
 
@@ -69,8 +69,8 @@ Following commands are available:
 - **ss**    - Seconds with leading zeros. 00 to 59
 - **S**     - Milliseconds without leading zeros. 0 through 999
 - **SS**    - Milliseconds with leading zeros. 000 to 999
-- **u**     - Milliseconds since the Unix Epoch (January 1 1970 00:00:00 GMT)
-- **U**     - Seconds since the Unix Epoch (January 1 1970 00:00:00 GMT)
+- **U**     - Milliseconds since the Unix Epoch (January 1 1970 00:00:00 GMT)
+- **u**     - Seconds since the Unix Epoch (January 1 1970 00:00:00 GMT)
 - **A**     - Ante meridiem and Post meridiem. AM or PM
 
 ### Time zone designators
